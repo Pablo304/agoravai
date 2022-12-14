@@ -4,7 +4,7 @@ metadata:
   name: "vai2"
 spec:
   type: service
-  owner: user:guest
+  owner: Pablo304
   lifecycle: experimental
   consumesApis:
     - artist-api
