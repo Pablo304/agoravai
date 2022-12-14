@@ -6,4 +6,5 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
-  consumesApis: ['artist-api']
+  consumesApis:
+    - artist-api
