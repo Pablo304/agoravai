@@ -7,5 +7,5 @@ spec:
   owner: Pablo304
   lifecycle: experimental
   consumesApis:
-    - artist-api
+    - example-grpc-api
   system: 'siate'
