@@ -7,6 +7,6 @@ spec:
   owner: Pablo304
   lifecycle: experimental
   consumesApis:
-    - artist-api
+    - "artist-api"
   system:
-    - SIATE
+    - "SIATE"
