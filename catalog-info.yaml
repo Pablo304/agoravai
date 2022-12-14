@@ -8,3 +8,5 @@ spec:
   lifecycle: experimental
   consumesApis:
     - artist-api
+  system:
+    - SIATE
